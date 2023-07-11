@@ -66,19 +66,24 @@ body{
 .featured-section{
   margin-top: 120px;
   height: 90vh;
+  padding-top: 0px;
+  /* border: 1px solid red; */
 }
 
 .featured-section-header{
   color: #272727;
   text-align: center;
-  font-size: 22px;
+  font-size: 30px;
   margin-bottom: 14px;
+  margin-top: 0px;
+  /* border: 1px solid red; */
+  padding-bottom: 10px;
 }
 
 .featured-section-description{
   color: rgba(39, 39, 39, 0.60);
   text-align: center;
-  font-size: 11px;
+  font-size: 14px;
   margin-bottom: 30px;
 }
 
@@ -92,44 +97,45 @@ body{
 }
 
 .flower-card{
-  height: 310px;
-  width: 290px;
+  height: 380px;
+  width: 350px;
   /* border: 1px solid red; */
   position: relative;
 }
 .flower-icon1{
   position: absolute;
-  width: 180px;
-  margin-top: 63px;
-  margin-left: 40px;
+  width: 225px;
+  margin-top: 88px;
+  margin-left: 50px;
 }
 
 .flower-icon2{
   position: absolute;
-  width: 213px;
-  margin-top: 59px;
+  width: 270px;
+  margin-top: 84px;
   margin-left: 36px;
 }
 
 .flower-icon3{
   position: absolute;
-  width: 182px;
-  margin-top: 37px;
-  margin-left: 48px;
+  width: 230px;
+  margin-top: 55px;
+  margin-left: 57px;
 }
 
 .flower-background1{
-  height: 310px;
-  width: 290px;
+  height: 400px;
+  width: 340px;
   position: absolute;
   border-top-left-radius: 46%;
   border-top-right-radius: 48%;
   background: rgba(167, 33, 98, 0.15);
+  
 }
 
 .flower-background2{
-  height: 310px;
-  width: 290px;
+  height: 400px;
+  width: 340px;
   position: absolute;
   border-top-left-radius: 46%;
   border-top-right-radius: 48%;
@@ -137,8 +143,8 @@ body{
 }
 
 .flower-background3{
-  height: 310px;
-  width: 290px;
+  height: 400px;
+  width: 340px;
   position: absolute;
   border-top-left-radius: 46%;
   border-top-right-radius: 48%;
@@ -151,8 +157,10 @@ body{
   margin-top: 14px;
   color: #272727;
   text-align: center;
-  font-size: 13px;
+  font-size: 19px;
   text-decoration-line: underline;
+  margin-top: 46px;
+  font-weight: 400;
 }
 
 /* testimony section */
