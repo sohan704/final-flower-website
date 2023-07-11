@@ -68,6 +68,7 @@ body{
   height: 90vh;
   padding-top: 0px;
   /* border: 1px solid red; */
+  margin-bottom: 200px;
 }
 
 .featured-section-header{
@@ -166,9 +167,10 @@ body{
 /* testimony section */
 
 .testimonial-section{
-  height: 70vh;
+  height: 100vh;
   margin-bottom: 60px;
   /* border: 1px solid red; */
+  
   
 }
 .testimonial-header{
@@ -178,6 +180,8 @@ body{
   font-weight: 900;
   margin-top: 20px;
   margin-bottom: 20px;
+  padding-bottom: 10px;
+  
 }
 
 .testimonial-description{
@@ -188,6 +192,7 @@ body{
   width: 40%;
   margin: auto;
   margin-bottom: 50px;
+  padding-bottom: 25px;
 } 
 
 .testimonial-container{
