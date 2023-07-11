@@ -9,11 +9,12 @@ body{
 }
 
 .button-style{
-  padding: 11px 24px;
+  padding: 15px 30px;
   color: white;
   background: #E55473;
   border: none;
-  border-radius: 4px;
+  border-radius: 7px;
+  font-size: 15px;
 }
 .pink-text{
   color: #E55473;
@@ -179,7 +180,7 @@ body{
   font-size: 30px;
   font-weight: 900;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   padding-bottom: 10px;
   
 }
@@ -254,8 +255,13 @@ body{
   /* border: 1px solid red; */
   align-items: center;
   padding: 90px 280px;
-  gap: 177px;
+  gap: 130px;
   background: rgba(229, 84, 115, 0.05);
+  /* border: 1px solid red; */
+  padding-top: 130px;
+  padding-bottom: 170px;
+  padding-right: 288px;
+  padding-left: 200px;
 
 }
 .hot-deal-text{
@@ -266,19 +272,23 @@ body{
   color: #272727;
 font-size: 30px;
  margin-bottom: 19px;
+ width: 500px;
+ /* border: solid 1px red; */
 }
 
 .hot-deal-description{
   color: rgba(39, 39, 39, 0.60);
   text-align: center;
-  font-size: 11px;
+  font-size: 13px;
   margin-bottom: 24px;
+ 
+  
 
   
 }
 
 .hot-deal-photo{
-  width: 200px;
+  width: 242px;
   /* border: 1px solid red; */
 }
 
@@ -287,6 +297,7 @@ font-size: 30px;
 .instagram-section{
   height: 70vh;
   margin-bottom: 72px;
+  margin-top: 50px;
 }
 
 .instagram-text{
@@ -296,7 +307,7 @@ font-size: 30px;
 .instagram-header{
   color: #272727;
   text-align: center;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 900;
   margin-bottom: 20px;
   
@@ -309,7 +320,7 @@ font-size: 30px;
   font-weight: 400;
   width: 40%;
   margin: auto;
-  margin-bottom: 20px;
+  margin-bottom: 27px;
 } 
 
 .instagram-card-container{
